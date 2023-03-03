@@ -5,7 +5,7 @@ public class ReverseNumber {
         System.out.println(" Enter a number : ");
         int n = sc.nextInt(); // n is input number from user eg. 9876
 
-        int r = 0 ;// initialising value r to 0  - r will hold the reverse number
+        int r = 0 ;// initialising r to 0  - r will hold the reverse number
         int mod; // mod initialization
         while (n != 0) //run these statements until n not equal to 0
         {
