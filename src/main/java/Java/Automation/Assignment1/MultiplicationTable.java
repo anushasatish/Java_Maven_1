@@ -9,7 +9,7 @@ public class MultiplicationTable {
         int num = sc.nextInt();
 
         System.out.println("Multiplication table for " +num );
-        for (int i = 1; i<=10 ;i++)
+        for (int i = 1; i<=12 ;i++)
         {
             System.out.println(num+ "*" +i+ "=" +num * i);
         }
